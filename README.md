@@ -1,3 +1,5 @@
+The Datasets used in this repo are publicly available datasets on Kaggle.
+
 What is Linear Regression?
 
 - It is fitting a line to the data so as to minimize the loss (the mean squared distance in this case)
@@ -19,3 +21,4 @@ Sources used for learning:
 
 - StatQuest By JoshStarmer
 - Introduction to Statistical Learning (ISLP)
+- Stanford CS229 Lectures
