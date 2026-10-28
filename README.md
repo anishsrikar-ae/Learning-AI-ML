@@ -13,12 +13,11 @@ What is Logistic Regression?
 
 In this repository, all algorithms have been implemented using numpy and pandas and it also includes a sci kit learn version
 
-This repo is made for the sole reason of learning the Basics of regression algorithms
-
+The sole purpose of this repo is to track my journey
 
 
 Sources used for learning:
 
-- StatQuest By JoshStarmer
+- StatQuest By JoshStarmer (Youtube)
 - Introduction to Statistical Learning (ISLP)
-- Stanford CS229 Lectures
+- Stanford CS229 Lectures (and Notes)
